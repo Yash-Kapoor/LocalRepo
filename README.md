@@ -1,3 +1,13 @@
-# This is the practice README created by myself on my own.
+# Steps for local git
 <br>
-This is done after creating a project locally and then creating a repository afterwards.
+1. Create a Github Repository
+<br>
+2. Clone the repository in Code Editor
+<br>
+3. Make the required changes in the Code Editor
+<br>
+4. Add the changes in the local git
+<br>
+5. Commit the changes
+<br>
+6. Push the changes in the github repository
